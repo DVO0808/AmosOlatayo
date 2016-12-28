@@ -31,4 +31,7 @@ $(window).scroll(function() {
 $menuLi.click(function() {
   $menuLi.removeClass('current');
   $(this).addClass('current');
+
+
+
 });
